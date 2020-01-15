@@ -7035,4 +7035,6 @@ h6 {
 /*# sourceMappingURL=style.css.map */
 .background{
   background-image: url('../img2/outside\ full\ view.png') !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;;
 }
